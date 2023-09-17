@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring-Boot with Microservice, GCP**
 
-- 💬 Ask me about **Java, Spring, Spring-Boot, Database, Angular**
+- 💬 Ask me about **Core Java, Spring, Spring-Boot, Database, Angular**
 
 - 📫 How to reach me **sankha.github@gmail.com**
 
