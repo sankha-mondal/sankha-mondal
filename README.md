@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankha-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="sankha-mondal" /> </p>
 
-- 🔭 I’m currently working on **Wipro**
+- 🔭 I’m currently working on **Wipro Technology**
 
 - 🌱 I’m currently learning **Spring-Boot with Microservice, GCP**
 
