@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sankha.github@gmail.com**
 
-- ⚡ Fun fact **Coding with ME!😎👨🏻‍💻**
+- ⚡ Fun fact- **Coding with ME!😎👨🏻‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
