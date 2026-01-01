@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Wipro Technology**
 
-- 🌱 I’m currently learning **Spring-Boot with Microservice, GCP**
+- 🌱 I’m currently learning **Spring-Boot with Microservice, Kafka**
 
-- 💬 Ask me about **Core Java, Spring, Spring-Boot, Database, Angular**
+- 💬 Ask me about **Core Java, Python, Spring, Spring-Boot, SQL, Angular, GIT**
 
 - 📫 How to reach me **sankha.github@gmail.com**
 
